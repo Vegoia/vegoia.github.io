@@ -1,0 +1,56 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Vivien Erika V.
+    - name: Languages
+      value: English, German, French, Spanish, Japanese
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master of Arts
+      subtitle: Germanistik
+      institution: Carl von Ossietzky Universität Oldenburg
+      year: 2016
+      description:
+        - Sprachwissenschaft, Literaturwissenschaft
+        - Psycholinguistik
+    - title: Master of Education
+      subtitle: Deutsch und Philosophie
+      institution: Carl von Ossietzky Universität Oldenburg
+      year: 2016
+      description:
+        - Fachdidaktik, Sprachwissenschaft, Literaturwissenschaft
+        - Praktische und theoretische Philosophie
+        - Bildungswissenschaften
+        - Theorie der Schule, Schul- und Unterrichtsforschung und ihre Forschungsmethoden
+    - title: Bachelor of Arts
+      subtitle: Deutsch und Philosophie
+      institution: Leibniz Universität Hannover
+      year: 2011
+      description:
+        - Sprachwissenschaft, Literaturwissenschaft, Fachdidaktik
+        - Praktische Philosophie, Geschichte der Philosophie, Fachdidaktik
+        - Grundwissen Erziehungswissenschaft/Psychologie
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Kochen, Lesen, Yoga, etc.
+    
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Philosophy of Science.
+      items:
+        - Ethical scientific communication
+        - Epistemic questions
+        - Biases
+        - Sharing findings and ideas
+    - title: Languages.
+      items:
+        - Linguistics and literature
+        - Linguistic and cognitive biases
+        - Teaching languages
+        - Sharing findings and ideas
