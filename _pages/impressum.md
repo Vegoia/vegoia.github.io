@@ -2,7 +2,6 @@
 layout: page
 title: impressum
 permalink: /impressum
-subtitle: <a href='#'>Infos</a> 
 
 
 ---
