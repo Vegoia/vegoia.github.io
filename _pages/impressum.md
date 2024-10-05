@@ -1,7 +1,7 @@
 ---
 layout: page
 title: impressum
-permalink: /impressum
+permalink: /impressum/
 
 
 ---
