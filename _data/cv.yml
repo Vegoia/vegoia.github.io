@@ -1,7 +1,7 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Vivien Erika V.
     - name: Languages
       value: English, German, French, Spanish, Japanese
@@ -42,15 +42,16 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Philosophy of Science.
+    - title: Philosophy.
       items:
         - Ethical scientific communication
         - Epistemic questions
         - Biases
         - Sharing findings and ideas
+        - Intersectionality
     - title: Languages.
       items:
         - Linguistics and literature
         - Linguistic and cognitive biases
-        - Teaching languages
+        - Interdisciplinary collaboration
         - Sharing findings and ideas
