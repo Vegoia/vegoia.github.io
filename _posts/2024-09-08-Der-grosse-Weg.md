@@ -17,6 +17,7 @@ Das Buch "Der große Weg hat kein Tor. Nahrung, Anbau, Leben" aus dem Pala Verla
 ## Das Buch
 
 In "Der große Weg hat kein Tor" beschreibt Masanobu Fukuoka seine Landwirtschaftsphilosophie und seinen Werdegang vom Forschenden zum Bauern und Pionier des Ökolandbaus sowie Grundlagen der natürlichen Landwirtschaft.
+
 Unter der EAN 9783895662065 kann es in lokalen Buchläden bestellt werden.
 
 

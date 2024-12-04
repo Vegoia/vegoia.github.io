@@ -17,6 +17,7 @@ The instructive book "Furoshiki and the Japanese Art of Gift Wrapping" from Toko
 ## The book
 
 The book explains different ways to wrap gifts and other items in pretty fabric. It features a short introductory explanation of the history and usage of Furoshiki and thirty illustrated wrapping styles.
+
 It can be ordered with the EAN 9781913947651 in local bookshops.
 
 

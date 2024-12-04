@@ -17,6 +17,7 @@ Die frühen Gedichte und Dramen Hugo von Hofmannsthals in der Ausgabe der gesamm
 ## Das Buch
 
 In "Gesammelte Werke. Gedichte. Dramen I. 1891-1898" sind viele der meiner Meinung nach schönsten Gedichte Hofmannsthals enthalten. 
+
 Dieses Buch ist vergriffen und kann nur noch antiquarisch bestellt werden, allerdings gibt es andere Ausgaben der Gedichte und Dramen von Hugo von Hofmannsthal.
 
 

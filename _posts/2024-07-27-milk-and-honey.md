@@ -17,6 +17,7 @@ The subject of this post is Rupi Kaur's poetry collection "milk and honey" first
 
 This collection of poetry is subdivided into four chapters that each have a different focal point.
 While it also is available in German (and many other languages) I read it in English and really enjoyed the plays on words. 
+
 It can still be ordered in your local bookshop with the EAN 9781449474256.
 
 
