@@ -43,22 +43,22 @@
   type: nested_list
   contents:
     - title: Philosophy.
-      items:
-        - Ethical scientific communication
-        - Epistemic questions
-        - Biases
-        - Sharing findings and ideas
-        - Intersectionality
+     # items:
+     #   - Ethical scientific communication
+     #   - Epistemic questions
+     #   - Biases
+     #   - Sharing findings and ideas
+     #   - Intersectionality
     - title: Languages.
-      items:
-        - Linguistics and literature
-        - Linguistic and cognitive biases
-        - Interdisciplinary collaboration
-        - Sharing findings and ideas
+      #items:
+      #  - Linguistics and literature
+      #  - Linguistic and cognitive biases
+      #  - Interdisciplinary collaboration
+      #  - Sharing findings and ideas
     - title: Digital Humanities.
-      items:
-        - Large Language Models (LLMs) and linguistics
-        - Biases in AI and how to overcome them
-        - Computer Science solutions to problems in other disciplines
-        - Sharing findings and ideas
-        - Interdisciplinary collaboration
+      #items:
+      #  - Large Language Models (LLMs) and linguistics
+      #  - Biases in AI and how to overcome them
+      #  - Computer Science solutions to problems in other disciplines
+      #  - Sharing findings and ideas
+      #  - Interdisciplinary collaboration
