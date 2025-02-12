@@ -49,8 +49,12 @@
 <lastmod>2025-01-11T12:32:03+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blog/2025/Witches-Abroad/</loc>
+<lastmod>2025-02-11T08:32:03+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/projects/Baum_project/</loc>
-<lastmod>2025-01-11T17:09:39+01:00</lastmod>
+<lastmod>2025-02-12T09:54:31+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/404.html/</loc>
@@ -204,6 +208,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/tag/witzig/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/tag/discworld/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/tag/clever/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/blog/category/books/</loc>
