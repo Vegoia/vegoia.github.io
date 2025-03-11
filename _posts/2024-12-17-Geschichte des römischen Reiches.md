@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-Das Buch "Eine Geschichte des Römischen Reiches in 21 Frauen" von Emma Southon, auf deutsch erschienen 2024 bei Aufbau, ist das Thema dieses Posts.
+Das Buch "Eine Geschichte des Römischen Reiches in 21 Frauen" von Emma Southon, auf Deutsch erschienen 2024 bei Aufbau, ist das Thema dieses Posts.
 
 
 ## Das Buch
