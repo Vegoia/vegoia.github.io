@@ -57,8 +57,12 @@
 <lastmod>2025-03-11T00:11:02+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blog/2025/Boy-Mole-Fox-Horse/</loc>
+<lastmod>2025-04-11T11:06:04+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/projects/Baum_project/</loc>
-<lastmod>2025-03-11T14:20:53+01:00</lastmod>
+<lastmod>2025-04-12T11:28:00+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/404/</loc>
@@ -230,6 +234,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/tag/japanisch/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/tag/illustration/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/tag/heartwarming/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/blog/category/books/</loc>
