@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Meta Benes "Philosophieren mit Tieren"
-date: 2025-04-13 19:26:07-0400
+date: 2025-04-13 10:26:07-0000
 description: EAN 9783830336730
 tags:  deutsch Comic Philosophie
 categories: books
