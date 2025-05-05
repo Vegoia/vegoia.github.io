@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tomoko Kakita's "Furoshiki and the Japanese Art of Gift Wrapping"
+title: Tomoko Kakita's 'Furoshiki and the Japanese Art of Gift Wrapping'
 date: 2024-10-15 18:47:00-0400
 description: EAN 9781913947651
 tags: gift english japanese instructions creative
@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-The instructive book "Furoshiki and the Japanese Art of Gift Wrapping" from Tokoko Kakita released in 2021 by Laurence King Publishing is the subject of this post.
+The instructive book 'Furoshiki and the Japanese Art of Gift Wrapping' from Tokoko Kakita released in 2021 by Laurence King Publishing is the subject of this post.
 
 
 ## The book

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Terry Pratchett's "Witches Abroad"
+title: Terry Pratchett's 'Witches Abroad'
 date: 2025-02-11 08:32:03+0100
 description: EAN 9780552134651
 tags:  english discworld fantasy clever
@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-The discworld novel "Witches Abroad" written by Terry Pratchett and published in 1992 with Corgi Books, first published in 1991 with Gollancz, is the subject of this post.
+The discworld novel 'Witches Abroad' written by Terry Pratchett and published in 1992 with Corgi Books, first published in 1991 with Gollancz, is the subject of this post.
 
 ## The book
 

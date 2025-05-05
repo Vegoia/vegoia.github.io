@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Meta Benes "Philosophieren mit Tieren"
+title:  Meta Benes 'Philosophieren mit Tieren'
 date: 2025-04-13 10:26:07-0000
 description: EAN 9783830336730
 tags:  deutsch Comic Philosophie
@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-Der Comic "Philosophieren mit Tieren" von Meta Bene, erschienen 2024 bei Lappan, ist das Thema dieses Posts.
+Der Comic 'Philosophieren mit Tieren' von Meta Bene, erschienen 2024 bei Lappan, ist das Thema dieses Posts.
 
 
 ## Das Buch

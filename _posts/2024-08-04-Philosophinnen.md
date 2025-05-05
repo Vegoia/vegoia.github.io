@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rebecca Buxtons und Lisa Whitings "Philosophinnen"
+title: Rebecca Buxtons und Lisa Whitings 'Philosophinnen'
 date: 2024-08-03 08:13:00-0400
 description: EAN 9783150114599
 tags: Philosophie deutsch Zugbuch trainbook book
@@ -11,9 +11,9 @@ toc:
   sidebar: left
 ---
 
-Das Buch "Philosophinnen. Von Hannah Arendt bis Mary Wollstonecraft" in der Ausgabe von Reclam aus dem Jahr 2024 ist das Thema dieses Posts.
+Das Buch 'Philosophinnen. Von Hannah Arendt bis Mary Wollstonecraft' in der Ausgabe von Reclam aus dem Jahr 2024 ist das Thema dieses Posts.
 
-Zuvor ist es 2021 unter dem Titel "Philosophinnen. Von Hypatia bis Angela Davis: Herausragende Frauen der Philosophiegeschichte" im mairisch Verlag erschienen, das Original wurde 2020 unter dem Titel "Philosopher Queens. The Lives and Legacies of Philosophy's Unsung Women" bei Unbound veröffentlicht.
+Zuvor ist es 2021 unter dem Titel 'Philosophinnen. Von Hypatia bis Angela Davis: Herausragende Frauen der Philosophiegeschichte' im mairisch Verlag erschienen, das Original wurde 2020 unter dem Titel "Philosopher Queens. The Lives and Legacies of Philosophy's Unsung Women" bei Unbound veröffentlicht.
 
 
 ## Das Buch

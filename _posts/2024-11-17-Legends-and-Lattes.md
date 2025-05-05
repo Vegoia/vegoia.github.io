@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Travis Baldree's "Legends & Lattes"
+title: Travis Baldree's 'Legends & Lattes'
 date: 2024-11-17 13:37:00-0400
 description: EAN 9781035007325
 tags:  english love fantasy cosy coffee
@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-The cosy fantasy novel "Legends & Lattes" written by Travis Baldree and published in 2022 with Tor is the subject of this post.
+The cosy fantasy novel 'Legends & Lattes' written by Travis Baldree and published in 2022 with Tor is the subject of this post.
 
 ## The book
 

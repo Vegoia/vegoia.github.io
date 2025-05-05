@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rupi Kaur's "milk and honey"
+title: Rupi Kaur's 'milk and honey'
 date: 2024-07-27 10:14:00-0400
 description: EAN 9781449474256
 tags: rupikaur poetry english
@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-The subject of this post is Rupi Kaur's poetry collection "milk and honey" first published in English in 2015.
+The subject of this post is Rupi Kaur's poetry collection 'milk and honey' first published in English in 2015.
 
 ## The book
 

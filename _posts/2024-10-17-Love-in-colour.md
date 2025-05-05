@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bolu Babalola's "Love in Colour"
+title: Bolu Babalola's 'Love in Colour'
 date: 2024-10-17 13:37:00-0400
 description: EAN 9781472268884
 tags: shortstories english love tales myths
@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-The collection of stories in Bolu Babalola's book "Love in Colour" published in 2020 by Headline Publishing Group are the subject of this post.
+The collection of stories in Bolu Babalola's book 'Love in Colour' published in 2020 by Headline Publishing Group are the subject of this post.
 
 ## The book
 

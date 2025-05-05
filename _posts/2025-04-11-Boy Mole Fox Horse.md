@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Charlie Mackery's "The Boy, the Mole, the Fox and the Horse. The Animated Story"
+title: Charlie Mackery's 'The Boy, the Mole, the Fox and the Horse. The Animated Story'
 date: 2025-04-11 13:06:04+0400
 description: EAN 9781529197686
 tags:  english illustration heartwarming book
@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-The book "The Boy, the Mole, the Fox and the Horse. The Animated Story" by Charlie Mackery, published in 2022 by Ebury Press, is the subject of this post.
+The book 'The Boy, the Mole, the Fox and the Horse. The Animated Story' by Charlie Mackery, published in 2022 by Ebury Press, is the subject of this post.
 
 ## The book
 

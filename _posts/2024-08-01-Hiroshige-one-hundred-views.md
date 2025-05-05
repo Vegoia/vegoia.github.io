@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hiroshige. One Hundred Famous Views of Edo. Hundert berühmte Ansichten von Edo. Cent Vues célèbres d'Edo"
+title: Hiroshige. One Hundred Famous Views of Edo. Hundert berühmte Ansichten von Edo. Cent Vues célèbres d'Edo
 date: 2024-08-01 017:13:00-0400
 description: EAN 9783836556590
 tags: deutsch english Hiroshige japanese-art prints book Buch images
@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-In diesem Post wird das Buch "Hiroshige. One Hundred Famous Views of Edo. Hundert berühmte Ansichten von Edo. Cent Vues célèbres d'Edo"" in der Ausgabe von Taschen im Rahmen der Bibliotheca Universalis aus dem Jahr 2022 angesprochen.
+In diesem Post wird das Buch 'Hiroshige. One Hundred Famous Views of Edo. Hundert berühmte Ansichten von Edo. Cent Vues célèbres d'Edo' in der Ausgabe von Taschen im Rahmen der Bibliotheca Universalis aus dem Jahr 2022 angesprochen.
 Es ist dreisprachig erschienen und enthält Erläuterungen auf Deutsch, Englisch und Französisch sowie die oben genannte Landschaftsserie des japanischen Holzschnitts. 
 
 Die Texte wurden von Melanie Trede und Lorenz Bichler verfasst, während die Drucke aus dem Ota Memorial Museum of Art Tokyo stammen.
@@ -19,7 +19,7 @@ Die Texte wurden von Melanie Trede und Lorenz Bichler verfasst, während die Dru
 
 ## Das Buch
 
-Das Buch beginnt mit einer Einführung in die Veröffentlichungsgeschichte der Landschaftsserie "Hundert berühmte Ansichten von Edo" und einer Defintion der _ukiyoe_ als Bilder einer vergänglichen Welt. Nach vielen weiteren Informationen sowie einer Erklärung zur jahreszeitlichen Anordnung und den Designentscheidungen der erfolgt eine detaillierte Darstellung der Drucke der Serie in ebendieser jahreszeitlich sortierten, konventionellen Ordnung.
+Das Buch beginnt mit einer Einführung in die Veröffentlichungsgeschichte der Landschaftsserie 'Hundert berühmte Ansichten von Edo' und einer Defintion der _ukiyoe_ als Bilder einer vergänglichen Welt. Nach vielen weiteren Informationen sowie einer Erklärung zur jahreszeitlichen Anordnung und den Designentscheidungen der erfolgt eine detaillierte Darstellung der Drucke der Serie in ebendieser jahreszeitlich sortierten, konventionellen Ordnung.
 
 Unter der EAN 9783836556590 kann es in lokalen Buchläden bestellt werden.
 

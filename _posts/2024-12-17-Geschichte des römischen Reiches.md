@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Emma Southons "Eine Geschichte des Römischen Reiches in 21 Frauen"
+title:  Emma Southons 'Eine Geschichte des Römischen Reiches in 21 Frauen'
 date: 2024-12-17 17:13:00-0400
 description: EAN 9783351042387
 tags:  deutsch Geschichte Sachbuch informativ Rom Frauen
@@ -11,12 +11,12 @@ toc:
   sidebar: left
 ---
 
-Das Buch "Eine Geschichte des Römischen Reiches in 21 Frauen" von Emma Southon, auf Deutsch erschienen 2024 bei Aufbau, ist das Thema dieses Posts.
+Das Buch 'Eine Geschichte des Römischen Reiches in 21 Frauen' von Emma Southon, auf Deutsch erschienen 2024 bei Aufbau, ist das Thema dieses Posts.
 
 
 ## Das Buch
 
-Das im Englischen unter dem Titel "A History of the Roman Empire in 21 Women" erschienene Buch befasst sich genau mit dem, was der Titel aussagt: 
+Das im Englischen unter dem Titel 'A History of the Roman Empire in 21 Women' erschienene Buch befasst sich genau mit dem, was der Titel aussagt: 
 
 Es beleuchtet die Leben von Frauen, die im Zusammenhang mit dem Römischen Reich stehen, und bietet so eine ungewohnte Perspektive auf römische Geschichte.
 

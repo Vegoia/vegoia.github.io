@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marc-Uwe Klings "Die Känguru-Tetralogie"
+title: Marc-Uwe Klings 'Die Känguru-Tetralogie'
 date: 2025-01-11 12:32:03+0100
 description: EAN 9783548061610
 tags:  deutsch Känguru witzig
@@ -16,7 +16,7 @@ Der Schuber mit vier Büchern von Marc-Uwe Kling, der in dieser Form 2020 bei Ul
 
 ## Die Bücher
 
-Enthalten sind "Die Känguru-Chroniken", "Das Känguru-Manifest", "Die Känguru-Offenbarung" sowie "Die Känguru-Apokryphen", die alle schon vorher als Einzelbände erschienen waren.
+Enthalten sind 'Die Känguru-Chroniken', 'Das Känguru-Manifest', 'Die Känguru-Offenbarung' sowie 'Die Känguru-Apokryphen', die alle schon vorher als Einzelbände erschienen waren.
 
 Erzählt wird die sehr witzige Geschichte des Protagonisten, der zu Beginn des ersten Buches mit einem Känguru zusammenzieht. 
 Es wird diskutiert, philosophiert und die Welt verbessert.

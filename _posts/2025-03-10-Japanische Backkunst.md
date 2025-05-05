@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ai Venturas "Japanische Backkunst"
+title:  Ai Venturas 'Japanische Backkunst'
 date: 2025-03-10 19:11:02-0400
 description: EAN 9783959618113
 tags:  deutsch Backbuch backen Rezepte japanisch
@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-Das Buch "Japanische Backkunst. 45 süße Rezepte von Montblanc bis Mochi", auf Deutsch erschienen 2023 im Christian Verlag, ist das Thema dieses Posts.
+Das Buch 'Japanische Backkunst. 45 süße Rezepte von Montblanc bis Mochi', auf Deutsch erschienen 2023 im Christian Verlag, ist das Thema dieses Posts.
 
 
 ## Das Buch
